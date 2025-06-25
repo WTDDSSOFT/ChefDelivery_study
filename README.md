@@ -14,9 +14,3 @@
 - 📦 `GridUIView` + `StoreItemView`: Grid layout for products or restaurants
 - 🧭 `NavigationBarUlView`: Custom navigation header
 - 🗂 `OrderTypeGridUlView`: Grid-based category selector
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ChefDelivery.git
